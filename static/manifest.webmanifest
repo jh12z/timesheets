@@ -1,0 +1,16 @@
+{
+	"name": "Timesheets",
+	"short_name": "timesheets",
+	"scope": "/",
+	"start_url": ".",
+	"icons": [
+		{
+			"src": "/favicon-512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	],
+	"theme_color": "#ffffff",
+	"background_color": "#ffffff",
+	"display": "standalone"
+}
