@@ -96,7 +96,7 @@
 		{/each}
 		<tr>
 			<td><button onclick={addLine}>add</button></td>
-			<td colspan="3"></td>
+			<td colspan="2"></td>
 			<td><input class="hours" value={total} disabled/></td>
 			{#each dates as _, i (i)}
 				<td><input class="hours" value={totalPerDay[i]} disabled/></td>
