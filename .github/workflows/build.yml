@@ -1,4 +1,5 @@
-name: Build and Deploy Svelte 5 to GitHub Pages
+# Build and deploy to GitHub Pages
+name: Build
 
 on:
   push:
