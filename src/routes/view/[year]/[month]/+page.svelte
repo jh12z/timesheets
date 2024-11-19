@@ -71,6 +71,6 @@ Year: {year} Month: {month}
 <Timesheet {year} {month} bind:timesheets={data.timesheets} bind:projects={data.projects}/>
 <Projects bind:projects={data.projects}/>
 
-<svelte:document oncopy={copy} onpaste={paste}/>
+<!--<svelte:document oncopy={copy} onpaste={paste}/>-->
 
 <Debug value={data}/>
